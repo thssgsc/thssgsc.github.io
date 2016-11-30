@@ -1,4 +1,6 @@
-# GraduateStudentCouncilTHU
-Tsinghua University graduate student council website
+###Tsinghua University graduate student council website
 
-THU LAN accessible ONLY [link](https:/166.111.205.152)
+---
+Allow THU_LAN access ONLY [link](https:/166.111.205.152)
+
+Internet access and domain name are in progress.
